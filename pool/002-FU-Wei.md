@@ -5,9 +5,9 @@ NO: 002
 ## Personal page and contact information
 
 - GitHub: https://github.com/tekkamanninja
-- LinkedIn: TBA (Optional)
-- Email Address: TBA
-- WeChat: (No need to publish by default)
+- LinkedIn: https://www.linkedin.com/in/wei-fu-tekkamanninja/
+- Email Address: tekkamanninja@163.com
+- WeChat: tekkamanninja
 - Other contact information: If any
 
 ## Brief Bio
