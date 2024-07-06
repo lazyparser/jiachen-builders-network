@@ -12,7 +12,7 @@ NO: 008
 
 ## Brief Bio
 
-王炳臻是PLCT实验室实习生、 LuaJIT RISC-V Porting 维护者。在PLCT实验室实习期间，王秉真一直从事编译器和 Linux 发行版维护工作，其中最引人注目的项目是将 LuaJIT 移植到 RISC-V 架构，尽管这项任务非常深奥，但质量很高。王炳臻在编译器领域表现出了非凡的兴趣和学习能力，并就该主题发表了令人印象深刻的公开演讲。
+王炳臻是PLCT实验室实习生、 LuaJIT RISC-V Porting 维护者，目前在南方科技大学攻读学士学位。在PLCT实验室实习期间，王秉真一直从事编译器和 Linux 发行版维护工作，其中最引人注目的项目是将 LuaJIT 移植到 RISC-V 架构，尽管这项任务非常深奥，但质量很高。王炳臻在编译器领域表现出了非凡的兴趣和学习能力，并就该主题发表了令人印象深刻的公开演讲。
 
 ## Capabilities (aka. The scope of the issuer's endorsement)
 
