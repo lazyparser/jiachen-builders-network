@@ -4,11 +4,9 @@ NO: 010
 
 ## Personal page and contact information
 
-- GitHub: TBA
-- LinkedIn: N/A
-- Email Address: TBA
-- WeChat: N/A
-- Other contact information: If any
+- GitHub: cyyself
+- Email Address: cyy@cyyself.name
+- Blog: https://blog.cyyself.name
 
 ## Brief Bio
 
