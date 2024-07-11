@@ -1,6 +1,6 @@
-# 王炳臻 (WANG Bingzhen)
+# dram (dram)
 
-NO: 008
+NO: 009
 
 ## Personal page and contact information
 
@@ -13,9 +13,6 @@ NO: 008
 ## Brief Bio
 
 dram 2024 年本科毕业于清华大学，现在为中国科学院大学硕士研究生，2021 年加入 PLCT 实验室实习，进行 RISC-V 底层软硬件相关工作，对 OpenSBI、QEMU 等上游项目提交多个补丁和缺陷报告；帮助 CAAT 和 archrv 小队对 RISC-V 相关规范问题和软件问题答疑解惑；完成多次 RISC-V 编译器和操作系统技术相关的技术报告。
-
-能力列表
-
 
 ## Capabilities (aka. The scope of the issuer's endorsement)
 
