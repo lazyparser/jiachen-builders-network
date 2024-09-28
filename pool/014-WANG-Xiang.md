@@ -12,7 +12,7 @@ NO: 014
 
 ## Brief Bio
 
-王翔 2011 年本科毕业后，先后从事过电气自动化、单片机、Toolchain 等相关工作。2016年起开始接触 RISC-V 相关的开发，先后参与过 coreboot/opensbi/openocd/kernel/opentian 的社区工作。2021年起加入PLCT实验室参与社区开发工作，现在是 OpenSBI 的主要贡献者之一。
+王翔2011年本科毕业后，先后从事过电气自动化、单片机、Toolchain 等相关工作。2016年起开始接触RISC-V相关的开发，先后参与过 coreboot / OpenSBI / OpenOCD / Linux Kernel / OpenTitan 的社区工作。2021年起加入PLCT实验室参与社区开发工作，现在是 OpenSBI 的主要贡献者之一。
 
 ## Capabilities (aka. The scope of the issuer's endorsement)
 
